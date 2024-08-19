@@ -1,0 +1,140 @@
+ .u-section-1 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.8), rgba(0,0,0,0.8)), url('images/2024-08-19170101.png');
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 1485px;
+}
+
+.u-section-1 .u-text-1 {
+  font-weight: 700;
+  margin: 360px auto 0;
+}
+
+.u-section-1 .u-form-1 {
+  height: 112px;
+  --radius: 12px;
+  box-shadow: 0px 2px 8px 0px rgba(128,128,128,1);
+  width: 855px;
+  margin: 55px auto 0;
+}
+
+.u-section-1 .u-input-1 {
+  --radius: 25px;
+}
+
+.u-section-1 .u-input-2 {
+  --radius: 25px;
+}
+
+.u-section-1 .u-form-group-3 {
+  margin-left: 0;
+}
+
+.u-section-1 .u-input-3 {
+  --radius: 25px;
+}
+
+.u-section-1 .u-form-group-4 {
+  margin-left: 0;
+}
+
+.u-section-1 .u-input-4 {
+  --radius: 25px;
+}
+
+.u-section-1 .u-btn-1 {
+  --radius: 25px;
+  background-image: none;
+  font-weight: 700;
+}
+
+.u-section-1 .u-image-1 {
+  width: 2565px;
+  height: 1554px;
+  margin: -552px auto 0 -757px;
+}
+
+.u-section-1 .u-text-2 {
+  font-size: 4.5rem;
+  font-weight: 700;
+  text-shadow: 0px 0px 30px rgba(0,0,0,1);
+  margin: -1266px auto 0;
+}
+
+.u-section-1 .u-text-3 {
+  font-weight: 600;
+  font-size: 2.25rem;
+  margin: -17px 0 60px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 239px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 940px;
+    height: 569px;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-top: -281px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 106px;
+  }
+
+  .u-section-1 .u-form-1 {
+    width: 720px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 720px;
+    height: 436px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-top: -148px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-form-1 {
+    width: 540px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 540px;
+    height: 327px;
+  }
+
+  .u-section-1 .u-text-2 {
+    font-size: 1rem;
+    margin-top: -39px;
+  }
+
+  .u-section-1 .u-text-3 {
+    font-size: 1rem;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-form-1 {
+    width: 340px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 340px;
+    height: 206px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-top: 82px;
+  }
+}
